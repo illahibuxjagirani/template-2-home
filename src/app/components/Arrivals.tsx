@@ -40,6 +40,7 @@ export default function Arrivals(){
 <p className="font-bold">$120</p>
 </Link>
 
+
 {/* pant */}
 <Link href={"/products"} className="space-y-3 cursor-pointer">
   <Image src={pant} alt="Image" className="h-[250px] w-[250px]"/>

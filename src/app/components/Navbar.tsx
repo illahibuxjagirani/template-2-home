@@ -62,8 +62,8 @@ export default function Navbar() {
               <Link href="/" className="flex gap-2 items-center">
                 <span>Shop</span> <Image src={downArrow} alt="Arrow" className="fill-white" />
               </Link>
-              <Link href="/">On Sale</Link>
-              <Link href="/arrivals">New Arrivals</Link>
+              <Link href="/products">On Sale</Link>
+              <Link href="/casual">New Arrivals</Link>
               <Link href="/">Brands</Link>
             </ul>
           </div>
@@ -74,8 +74,8 @@ export default function Navbar() {
               <Link href="/" className="flex">
                 <span>Shop</span> <Image src={downArrow} alt="Arrow"></Image>
               </Link>
-              <Link href="/">On Sale</Link>
-              <Link href="/arrivals">New Arrivals</Link>
+              <Link href="/products">On Sale</Link>
+              <Link href="/casual">New Arrivals</Link>
               <Link href="/">Brands</Link>
             </ul>
           </div>
